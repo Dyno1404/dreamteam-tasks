@@ -1,0 +1,11 @@
+### TASK 06: WIREFRAME THE SKELETON
+
+In this task, I created wireframes for both the mobile and desktop views of the Letterboxd-inspired project using Figma. Wireframes are essential to providing structure and layout, acting as the skeleton for the website. I designed the wireframes to map out key features, such as user authentication, adding tasks/items (like films), reviewing and rating films, search functionality, and social features such as following other users and viewing their activity. The mobile view was designed with a focus on responsive and touch-friendly features, ensuring that users would have a seamless experience. Once the wireframes were created, I proceeded to design them fully with styles, colors, and other elements in Figma to make them more visual and engaging.
+
+### TASK 07: Figma Design Task
+
+After completing the wireframes, I proceeded to transform them into fully designed versions for both the mobile and desktop views. In the mobile view, I created the wireframe and added styles directly in the same Figma file. When we run the design, the implementation of Letterboxd in mobile view will be visible with all essential elements styled and ready for interaction. This design represents the raw version of the mobile view. However, when I decide to fully implement the Figma design, more changes will be made to refine the aesthetics, making it resemble something like the IMDb website, with cloning features and some design alterations.
+
+For the website view, I added the necessary styles, although the website is quite large, and it is still a raw design. There are several planned changes for the website view, such as the implementation of clickable elements like movies—when a user clicks on a movie like "Kai Po Che," they will be redirected to that specific film's page. The design here is in its early stages, and improvements will be made to ensure a polished and user-friendly interface. The wireframe and design provide a clear foundation for further refinement in the following stages of the project.
+
+In summary, both the mobile and desktop views are currently raw designs with the basic layout and features in place. As the design progresses, I will continue to refine and iterate upon it to improve the user experience and bring the project closer to the final implementation of the Letterboxd-inspired platform.
